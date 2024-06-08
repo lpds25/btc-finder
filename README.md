@@ -10,3 +10,5 @@ Rode:
 E depois:
 
 `$ node main.js`
+
+Link: https://www.youtube.com/watch?v=02NZJBwy-vE
